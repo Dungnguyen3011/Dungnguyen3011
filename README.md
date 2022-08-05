@@ -5,4 +5,5 @@
 - :wink: I’m gonna learn more about ASP.NET in the future
 - 📫 How to reach me: https://www.facebook.com/nguyen.tan.dung.3011
 - :blush: thanks for reading this 
+- :white_circle: I’m the one doing the BE part in these project on my Git
 
