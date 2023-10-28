@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Dũng(Andrew), welcome to my Github 
+### Hi there 👋 I’m Dũng(Andrey), welcome to my Github 
 
 - 👯 I’m interested in Java and C#
 - 🌱 I’m currently trying deep learning about Sring Boot (been learning since 5/2022)
